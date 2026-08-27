@@ -1,8 +1,13 @@
-# CS121_project_
+# CS121_project_1
 
 My name is **Julian**
 
 I am excited to learn about:
-- C#
-* C+
-+ JavaScript
+- C
+* C++
++ Java
+
+Python was the first language I learned
+```
+print("Hello, World!")
+```
