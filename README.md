@@ -12,6 +12,8 @@ Python was the first language I learned
 print("Hello, World!")
 ```
 
+## "hello.py" Pseudocode
+
 BEGIN
 
 Input userName.lower()
