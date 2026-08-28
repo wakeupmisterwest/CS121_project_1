@@ -7,7 +7,7 @@ I am excited to learn about:
 * C++
 + Java
 
-Python was the first language I learned
+*Python* was the first language I learned
 ```
 print("Hello, World!")
 ```
