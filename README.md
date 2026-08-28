@@ -22,6 +22,10 @@ if userName = "julian"
 
 print "Hey julian! You created me!"
 
+elif userName = "julien"
+
+print ">:("
+
 else 
 
 print "Hey {userName}! Lovely weather isn't it?"
